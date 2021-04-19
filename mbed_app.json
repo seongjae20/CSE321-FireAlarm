@@ -1,0 +1,6 @@
+{"target_overrides":{
+    "*":{
+        "platform.callback-nontrivial":true,
+        "target.printf_lib": "std"
+    }
+}}
